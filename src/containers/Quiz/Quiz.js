@@ -29,7 +29,17 @@ class Quiz extends React.Component {
                     {text: 'reduceRight()', id: 3},
                     {text: 'reduce()', id: 4}
                 ]
-            }
+            },
+            {   question: 'How do you find the number with the highest value of x and y?',
+            rightAnswerId: 1,
+            id: 3,
+            answers: [
+                {text: 'Math.max(x, y)', id: 1},
+                {text: 'top(x, y)', id: 2},
+                {text: 'ceil(x, y)', id: 3},
+                {text: 'Math.ceil(x, y)', id: 4}
+            ]
+        }
         ]
     }
 
@@ -89,6 +99,11 @@ class Quiz extends React.Component {
             isFinished: false,
             results: {}
         })
+    }
+
+    componentDidMount() {
+        console.log('Quiz ID = ', this.props.match.params.id);
+        
     }
 
     render () {
