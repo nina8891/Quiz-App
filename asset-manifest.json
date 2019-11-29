@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/nina8891/Quiz-App/static/css/main.7744d2b4.chunk.css",
-    "main.js": "/nina8891/Quiz-App/static/js/main.2f3174af.chunk.js",
-    "main.js.map": "/nina8891/Quiz-App/static/js/main.2f3174af.chunk.js.map",
+    "main.js": "/nina8891/Quiz-App/static/js/main.b463f8c3.chunk.js",
+    "main.js.map": "/nina8891/Quiz-App/static/js/main.b463f8c3.chunk.js.map",
     "runtime-main.js": "/nina8891/Quiz-App/static/js/runtime-main.7e1789c2.js",
     "runtime-main.js.map": "/nina8891/Quiz-App/static/js/runtime-main.7e1789c2.js.map",
     "static/js/2.09013c1f.chunk.js": "/nina8891/Quiz-App/static/js/2.09013c1f.chunk.js",
     "static/js/2.09013c1f.chunk.js.map": "/nina8891/Quiz-App/static/js/2.09013c1f.chunk.js.map",
     "index.html": "/nina8891/Quiz-App/index.html",
-    "precache-manifest.12cab8dab8c4e368a2cbaee31c693fa5.js": "/nina8891/Quiz-App/precache-manifest.12cab8dab8c4e368a2cbaee31c693fa5.js",
+    "precache-manifest.60c4b4f675d23cff4a5f8549782426ea.js": "/nina8891/Quiz-App/precache-manifest.60c4b4f675d23cff4a5f8549782426ea.js",
     "service-worker.js": "/nina8891/Quiz-App/service-worker.js",
     "static/css/main.7744d2b4.chunk.css.map": "/nina8891/Quiz-App/static/css/main.7744d2b4.chunk.css.map"
   },
@@ -16,6 +16,6 @@
     "static/js/runtime-main.7e1789c2.js",
     "static/js/2.09013c1f.chunk.js",
     "static/css/main.7744d2b4.chunk.css",
-    "static/js/main.2f3174af.chunk.js"
+    "static/js/main.b463f8c3.chunk.js"
   ]
 }
